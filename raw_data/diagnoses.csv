@@ -1,0 +1,16 @@
+diagnosis_code,diagnosis_name,diagnosis_id
+I10,Hypertension,1
+E11,Type 2 Diabetes Mellitus,2
+J06,Upper Respiratory Infection,3
+K21,Gastroesophageal Reflux Disease,4
+M54,Back Pain,5
+N39,Urinary Tract Infection,6
+F41,Anxiety Disorder,7
+I25,Ischemic Heart Disease,8
+A09,Gastroenteritis,9
+L30,Dermatitis,10
+G43,Migraine,11
+H65,Otitis Media,12
+M17,Knee Osteoarthritis,13
+O80,Normal Delivery,14
+S82,Fracture of Lower Leg,15
