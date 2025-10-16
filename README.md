@@ -4,7 +4,8 @@
 
 - [x] Initialized project structure
 - [x] Created overview documentation
-- [ ] Setup Python environment
-- [ ] Generate synthetic healthcare data
+- [x] Setup Python environment
+- [x] Generate synthetic healthcare data
+- [ ] Clean and transform data
 - [ ] Load data to PostgreSQL
 - [ ] Build Power BI dashboard
