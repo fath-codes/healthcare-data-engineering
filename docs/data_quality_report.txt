@@ -1,0 +1,207 @@
+[Data Profiling Report — 2025-10-17 13:10:45]
+
+=== Profiling dates.csv ===
+Rows: 639, Columns: 7
+Columns and dtypes
+date_id              int64
+date        datetime64[ns]
+year                 int64
+month                int64
+day                  int64
+quarter              int64
+day_name            object
+
+Missing Values per Column:
+date_id     0
+date        0
+year        0
+month       0
+day         0
+quarter     0
+day_name    0
+
+Duplicates: 0
+
+Numeric Summary (describe):
+         count         mean         std     min     25%     50%     75%     max
+date_id  639.0   320.000000  184.607692     1.0   160.5   320.0   479.5   639.0
+year     639.0  2024.427230    0.495064  2024.0  2024.0  2024.0  2025.0  2025.0
+month    639.0     5.874804    3.197762     1.0     3.0     6.0     8.0    12.0
+day      639.0    15.724570    8.803455     1.0     8.0    16.0    23.0    31.0
+quarter  639.0     2.292645    1.031081     1.0     1.0     2.0     3.0     4.0
+
+Sample Data:
+ date_id       date  year  month  day  quarter  day_name
+       1 2024-01-01  2024      1    1        1    Monday
+       2 2024-01-02  2024      1    2        1   Tuesday
+       3 2024-01-03  2024      1    3        1 Wednesday
+----------------------------------------------------------------------------------------------------
+
+=== Profiling departments.csv ===
+Rows: 10, Columns: 4
+Columns and dtypes
+department_id       int64
+department_name    object
+floor_number        int64
+head_doctor        object
+
+Missing Values per Column:
+department_id      0
+department_name    0
+floor_number       0
+head_doctor        0
+
+Duplicates: 0
+
+Numeric Summary (describe):
+               count  mean       std  min   25%  50%   75%   max
+department_id   10.0   5.5  3.027650  1.0  3.25  5.5  7.75  10.0
+floor_number    10.0   2.8  1.398412  0.0  2.00  3.0  3.75   5.0
+
+Sample Data:
+ department_id   department_name  floor_number                 head_doctor
+             1 Internal Medicine             2        Dr. Harjasa Haryanti
+             2           Surgery             3 Dr. Baktianto Suryono, S.Pd
+             3        Pediatrics             2        Dr. Ir. Hana Pradana
+----------------------------------------------------------------------------------------------------
+
+=== Profiling diagnoses.csv ===
+Rows: 15, Columns: 3
+Columns and dtypes
+diagnosis_code    object
+diagnosis_name    object
+diagnosis_id       int64
+
+Missing Values per Column:
+diagnosis_code    0
+diagnosis_name    0
+diagnosis_id      0
+
+Duplicates: 0
+
+Numeric Summary (describe):
+              count  mean       std  min  25%  50%   75%   max
+diagnosis_id   15.0   8.0  4.472136  1.0  4.5  8.0  11.5  15.0
+
+Sample Data:
+diagnosis_code              diagnosis_name  diagnosis_id
+           I10                Hypertension             1
+           E11    Type 2 Diabetes Mellitus             2
+           J06 Upper Respiratory Infection             3
+----------------------------------------------------------------------------------------------------
+
+=== Profiling doctors.csv ===
+Rows: 200, Columns: 6
+Columns and dtypes
+doctor_id            int64
+doctor_name         object
+department_name     object
+specialization      object
+years_experience     int64
+status              object
+
+Missing Values per Column:
+doctor_id           0
+doctor_name         0
+department_name     0
+specialization      0
+years_experience    0
+status              0
+
+Duplicates: 0
+
+Numeric Summary (describe):
+                  count    mean        std  min    25%    50%     75%    max
+doctor_id         200.0  100.50  57.879185  1.0  50.75  100.5  150.25  200.0
+years_experience  200.0   15.64   8.433625  2.0   8.00   15.0   23.00   29.0
+
+Sample Data:
+ doctor_id             doctor_name department_name specialization  years_experience status
+         1      Dr. Dartono Irawan         Surgery        Surgery                 8 Active
+         2        Dr. Jane Uyainah      Cardiology     Cardiology                21 Active
+         3 Dr. drg. Mila Padmasari      Pediatrics     Pediatrics                16 Active
+----------------------------------------------------------------------------------------------------
+
+=== Profiling patients.csv ===
+Rows: 20000, Columns: 6
+Columns and dtypes
+patient_id         int64
+patient_name      object
+gender            object
+age                int64
+city              object
+insurance_type    object
+
+Missing Values per Column:
+patient_id           0
+patient_name         0
+gender               0
+age                  0
+city                 0
+insurance_type    1921
+
+Duplicates: 0
+
+Numeric Summary (describe):
+              count        mean          std  min      25%      50%       75%      max
+patient_id  20000.0  10000.5000  5773.647028  1.0  5000.75  10000.5  15000.25  20000.0
+age         20000.0     45.0216    25.676906  1.0    23.00     45.0     67.00     89.0
+
+Sample Data:
+ patient_id      patient_name gender  age     city insurance_type
+          1   Shakila Nugroho   Male    6 Semarang        Private
+          2 Asirwanda Samosir   Male   28 Surabaya           BPJS
+          3    Nardi Yuliarti Female   28  Jakarta           BPJS
+----------------------------------------------------------------------------------------------------
+
+=== Profiling visits.csv ===
+Rows: 150000, Columns: 12
+Columns and dtypes
+visit_id                        int64
+patient_id                      int64
+doctor_id                       int64
+department_name                object
+diagnosis_code                 object
+visit_date             datetime64[ns]
+visit_type                     object
+visit_duration_days           float64
+total_cost                    float64
+insurance_coverage            float64
+patient_payment               float64
+satisfaction_rating             int64
+
+Missing Values per Column:
+visit_id               0
+patient_id             0
+doctor_id              0
+department_name        0
+diagnosis_code         0
+visit_date             0
+visit_type             0
+visit_duration_days    0
+total_cost             0
+insurance_coverage     0
+patient_payment        0
+satisfaction_rating    0
+
+Duplicates: 0
+
+Numeric Summary (describe):
+                        count           mean            std       min            25%            50%            75%           max
+visit_id             150000.0   75000.500000   43301.414527       1.0   37500.750000   75000.500000  112500.250000  1.500000e+05
+patient_id           150000.0    9991.845907    5776.125988       1.0    5004.750000    9973.000000   14996.000000  2.000000e+04
+doctor_id            150000.0     100.647707      57.736616       1.0      51.000000     101.000000     151.000000  2.000000e+02
+visit_duration_days  150000.0       2.497060       2.497387       0.0       0.700000       1.700000       3.500000  3.320000e+01
+total_cost           150000.0  515585.612592  251443.612599  300000.0  314005.868506  441904.003162  618925.083333  3.801567e+06
+insurance_coverage   150000.0  309124.093333  180439.445438   90000.0  189000.000000  259000.000000  379000.000000  2.784000e+06
+patient_payment      150000.0  206461.866667  141437.587047   30000.0  109000.000000  175000.000000  263000.000000  2.063000e+06
+satisfaction_rating  150000.0       2.999827       1.412992       1.0       2.000000       3.000000       4.000000  5.000000e+00
+
+Sample Data:
+ visit_id  patient_id  doctor_id   department_name diagnosis_code visit_date  visit_type  visit_duration_days    total_cost  insurance_coverage  patient_payment  satisfaction_rating
+        1        7530        174 Internal Medicine            M17 2025-08-12  Rawat Inap                  0.0 300000.000000            113000.0         187000.0                    5
+        2        4915        166        Cardiology            E11 2024-09-25  Rawat Inap                  2.0 560998.574185            372000.0         189000.0                    5
+        3        3816        112           Surgery            H65 2025-09-25 Rawat Jalan                  1.1 334353.281308            190000.0         144000.0                    1
+----------------------------------------------------------------------------------------------------
+
+✅ Profiling complete.
