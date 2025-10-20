@@ -50,9 +50,11 @@ def profile_file(csv_path: Path, report_path: Path):
 
 if __name__ == "__main__":
     try:
-        RAW_DIR = Path("raw_data")
+        DATA_DIR = Path("data")
+        RAW_DIR = DATA_DIR / "raw"
         DOCS_DIR = Path("docs")
-        DOCS_DIR.mkdir(exist_ok=True)
+        for d in [DATA_DIR, RAW_DIR, DOCS_DIR]:
+            d.mkdir(exist_ok=True)
         REPORT_FILE = DOCS_DIR / "data_quality_report.txt"
 
         # Make a report file (overwrite if exists)
