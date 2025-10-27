@@ -1,0 +1,15 @@
+
+===== ETL Block 2 Test Run: 2025-10-27 14:01:53.985508 =====
+[patients.csv] Loaded successfully
+[doctors.csv] Loaded successfully
+
+[patients.csv] Cleaning started
+Removed 0 duplicates (patients)
+[patients.csv] Cleaning completed
+[clean_patients.csv] Saved to data/clean
+
+[doctors.csv] Cleaning started
+Removed 0 duplicates (doctors)
+[doctors.csv] Cleaning completed
+[clean_doctors.csv] Saved to data/clean
+ETL Block 2 test completed successfully
