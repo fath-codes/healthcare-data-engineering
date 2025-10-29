@@ -1,15 +1,42 @@
+Data Cleaning Log - 2025-10-29 13:53:21.174107
+========================================
 
-===== ETL Block 2 Test Run: 2025-10-27 14:01:53.985508 =====
-[patients.csv] Loaded successfully
-[doctors.csv] Loaded successfully
+===== ETL Block 2 Run: 2025-10-29 13:53:21.174255 =====
+patients.csv Loaded succesfully (rows: 20000)
 
 [patients.csv] Cleaning started
 Removed 0 duplicates (patients)
 [patients.csv] Cleaning completed
-[clean_patients.csv] Saved to data/clean
+✅ Cleaned data saved to data\clean\patients_clean.csv (rows: 20000)
+doctors.csv Loaded succesfully (rows: 200)
 
 [doctors.csv] Cleaning started
 Removed 0 duplicates (doctors)
 [doctors.csv] Cleaning completed
-[clean_doctors.csv] Saved to data/clean
-ETL Block 2 test completed successfully
+✅ Cleaned data saved to data\clean\doctors_clean.csv (rows: 200)
+departments.csv Loaded succesfully (rows: 10)
+
+[departments.csv] Cleaning started
+Removed 0 duplicates (departments)
+[departments.csv] Cleaning completed
+✅ Cleaned data saved to data\clean\departments_clean.csv (rows: 10)
+diagnoses.csv Loaded succesfully (rows: 15)
+
+[diagnoses.csv] Cleaning started
+Removed 0 duplicates (diagnoses)
+[diagnoses.csv] Cleaning completed
+✅ Cleaned data saved to data\clean\diagnoses_clean.csv (rows: 15)
+dates.csv Loaded succesfully (rows: 639)
+
+[dates.csv] Cleaning started
+Removed 0 duplicates (dates)
+[dates.csv] Cleaning completed
+✅ Cleaned data saved to data\clean\dates_clean.csv (rows: 639)
+visits.csv Loaded succesfully (rows: 150000)
+
+[visits.csv] Cleaning started
+Removed 0 duplicates (visits)
+[visits.csv] Cleaning completed
+✅ Cleaned data saved to data\clean\visits_clean.csv (rows: 150000)
+
+===== ETL Block 2 Completed Succesfully =====
