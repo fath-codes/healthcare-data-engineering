@@ -8,5 +8,5 @@
 - [x] Generate synthetic healthcare data
 - [x] Clean data
 - [x] Transform data
-- [ ] Load data to PostgreSQL
+- [x] Load data to PostgreSQL
 - [ ] Build Power BI dashboard

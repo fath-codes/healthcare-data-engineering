@@ -1,0 +1,136 @@
+2025-11-04 14:18:32 | Connected to PostgreSQL database successfully.
+2025-11-04 14:18:32 | File data\processed\data\processed\dim_patients.csv does not exist. Skipping load for dim_patients.
+2025-11-04 14:18:32 | File data\processed\data\processed\dim_doctors.csv does not exist. Skipping load for dim_doctors.
+2025-11-04 14:18:32 | File data\processed\data\processed\dim_departments.csv does not exist. Skipping load for dim_departments.
+2025-11-04 14:18:32 | File data\processed\data\processed\dim_diagnoses.csv does not exist. Skipping load for dim_diagnoses.
+2025-11-04 14:18:32 | File data\processed\data\processed\dim_dates.csv does not exist. Skipping load for dim_dates.
+2025-11-04 14:18:32 | File data\processed\data\processed\fact_visits.csv does not exist. Skipping load for fact_visits.
+2025-11-04 14:18:32 | All tables processed.
+2025-11-04 14:22:02 | Connected to PostgreSQL database successfully.
+2025-11-04 14:22:06 | ❌ Failed to load dim_patients: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:22:10 | ❌ Failed to load dim_doctors: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:22:14 | ❌ Failed to load dim_departments: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:22:18 | ❌ Failed to load dim_diagnoses: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:22:23 | ❌ Failed to load dim_dates: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:22:27 | ❌ Failed to load fact_visits: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:22:27 | All tables processed.
+2025-11-04 14:23:13 | Connected to PostgreSQL database successfully.
+2025-11-04 14:23:17 | ❌ Failed to load dim_patients: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:23:21 | ❌ Failed to load dim_doctors: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:23:26 | ❌ Failed to load dim_departments: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:23:30 | ❌ Failed to load dim_diagnoses: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:23:34 | ❌ Failed to load dim_dates: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:23:38 | ❌ Failed to load fact_visits: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:23:38 | All tables processed.
+2025-11-04 14:24:47 | Connected to PostgreSQL database successfully.
+2025-11-04 14:24:51 | ❌ Failed to load dim_patients: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:24:55 | ❌ Failed to load dim_doctors: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:24:59 | ❌ Failed to load dim_departments: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:25:03 | ❌ Failed to load dim_diagnoses: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:25:07 | ❌ Failed to load dim_dates: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:25:12 | ❌ Failed to load fact_visits: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-04 14:25:12 | All tables processed.
+2025-11-04 14:30:44 | Connected to PostgreSQL database successfully.
+2025-11-04 14:30:45 | ✅ Succesfully loaded data into table dim_patients from data\processed\dim_patients.csv with 20000 rows.
+2025-11-04 14:30:45 | ✅ Succesfully loaded data into table dim_doctors from data\processed\dim_doctors.csv with 200 rows.
+2025-11-04 14:30:45 | ✅ Succesfully loaded data into table dim_departments from data\processed\dim_departments.csv with 10 rows.
+2025-11-04 14:30:45 | ✅ Succesfully loaded data into table dim_diagnoses from data\processed\dim_diagnoses.csv with 15 rows.
+2025-11-04 14:30:45 | ✅ Succesfully loaded data into table dim_dates from data\processed\dim_dates.csv with 639 rows.
+2025-11-04 14:30:53 | ✅ Succesfully loaded data into table fact_visits from data\processed\fact_visits.csv with 150000 rows.
+2025-11-04 14:30:53 | All tables processed.
+2025-11-04 14:30:53 | 📊 Table dim_patients has 20000 rows
+2025-11-04 14:30:53 | 📊 Table dim_doctors has 200 rows
+2025-11-04 14:30:53 | 📊 Table dim_departments has 10 rows
+2025-11-04 14:30:53 | 📊 Table dim_diagnoses has 15 rows
+2025-11-04 14:30:53 | 📊 Table dim_dates has 639 rows
+2025-11-04 14:30:53 | 📊 Table fact_visits has 150000 rows
