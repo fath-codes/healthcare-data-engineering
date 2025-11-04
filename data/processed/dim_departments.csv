@@ -1,0 +1,11 @@
+department_id,department_name,head_doctor,floor_number
+1,Internal Medicine,Dr. Harjasa Haryanti,2
+2,Surgery,"Dr. Baktianto Suryono, S.Pd",3
+3,Pediatrics,Dr. Ir. Hana Pradana,2
+4,Obstetrics & Gynecology,"Dr. R.M. Laswi Namaga, S.Gz",3
+5,Cardiology,Dr. Dimaz Saefullah,4
+6,Neurology,Dr. Bajragin Pratama,4
+7,Orthopedics,"Dr. Cut Hana Wasita, S.Ked",5
+8,Dermatology,Dr. Lasmono Anggraini,2
+9,"ENT (Ear, Nose, Throat)",Dr. Ir. Asirwada Saputra,3
+10,Emergency Department (IGD),"Dr. R. Rangga Winarno, S.H.",0

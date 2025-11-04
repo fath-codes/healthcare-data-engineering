@@ -1,0 +1,201 @@
+doctor_id,doctor_name,department_name,specialization,status,years_experience
+1,Dr. Dartono Irawan,Surgery,Surgery,Active,8
+2,Dr. Jane Uyainah,Cardiology,Cardiology,Active,21
+3,Dr. drg. Mila Padmasari,Pediatrics,Pediatrics,Active,16
+4,Dr. Kiandra Mansur,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,12
+5,"Dr. dr. Faizah Pradana, S.Farm",Orthopedics,Orthopedics,Active,9
+6,"Dr. drg. Cemplunk Riyanti, M.Kom.",Surgery,Surgery,Active,22
+7,"Dr. Sutan Daliman Irawan, S.I.Kom","ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,8
+8,Dr. Tania Hartati,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,27
+9,Dr. Nabila Mandasari,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,20
+10,Dr. Rahmi Manullang,Dermatology,Dermatology,Active,24
+11,Dr. Hardi Marbun,Internal Medicine,Internal Medicine,Active,12
+12,Dr. Tami Kuswoyo,Pediatrics,Pediatrics,Active,12
+13,Dr. Siska Oktaviani,Neurology,Neurology,Active,25
+14,"Dr. R. Heryanto Thamrin, S.E.I",Obstetrics & Gynecology,Obstetrics & Gynecology,On Leave,22
+15,Dr. Yusuf Suartini,Neurology,Neurology,Active,5
+16,Dr. Estiono Saptono,Orthopedics,Orthopedics,Active,9
+17,Dr. Sakura Pertiwi,Neurology,Neurology,Active,25
+18,"Dr. T. Tasdik Sitorus, S.Kom",Internal Medicine,Internal Medicine,Active,4
+19,Dr. Michelle Salahudin,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,23
+20,Dr. Alambana Pertiwi,Orthopedics,Orthopedics,Active,22
+21,Dr. Niyaga Damanik,Cardiology,Cardiology,Active,3
+22,Dr. dr. Hafshah Rahayu,Emergency Department (IGD),Emergency Department (IGD),Active,25
+23,Dr. Puti Mangunsong,Neurology,Neurology,Active,13
+24,Dr. Azalea Prakasa,Surgery,Surgery,Active,7
+25,Dr. Cut Belinda Prabowo,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,3
+26,Dr. Victoria Simanjuntak,Surgery,Surgery,Active,29
+27,Dr. Gaman Laksita,Surgery,Surgery,Active,22
+28,Dr. Sutan Perkasa Prastuti,Dermatology,Dermatology,Active,2
+29,Dr. Lalita Habibi,Neurology,Neurology,Active,13
+30,Dr. Soleh Pradana,Neurology,Neurology,Active,27
+31,Dr. Dr. Nyoman Putra,Cardiology,Cardiology,Active,23
+32,Dr. Puji Hakim,Surgery,Surgery,Active,13
+33,Dr. Hj. Elvina Sitompul,Pediatrics,Pediatrics,Active,26
+34,"Dr. dr. Ajeng Maryati, S.Pt",Obstetrics & Gynecology,Obstetrics & Gynecology,Active,18
+35,Dr. Digdaya Firmansyah,Orthopedics,Orthopedics,Active,28
+36,"Dr. R. Jaswadi Wijaya, S.E.","ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,28
+37,"Dr. Faizah Hidayat, S.Psi",Neurology,Neurology,Active,11
+38,Dr. Wage Yulianti,Internal Medicine,Internal Medicine,Active,29
+39,"Dr. Tgk. Rafid Thamrin, S.T.",Internal Medicine,Internal Medicine,Active,29
+40,Dr. KH. Tedi Irawan,Orthopedics,Orthopedics,Active,17
+41,Dr. Anastasia Hasanah,Obstetrics & Gynecology,Obstetrics & Gynecology,On Leave,16
+42,Dr. Dian Kusumo,Emergency Department (IGD),Emergency Department (IGD),Active,16
+43,Dr. Chelsea Widiastuti,Neurology,Neurology,Active,20
+44,"Dr. Puji Saefullah, S.IP",Dermatology,Dermatology,Active,13
+45,Dr. Zelda Palastri,Dermatology,Dermatology,Active,24
+46,Dr. Puput Yuniar,Pediatrics,Pediatrics,Active,21
+47,Dr. Hamima Mustofa,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,26
+48,"Dr. Lanang Dabukke, M.TI.",Emergency Department (IGD),Emergency Department (IGD),Active,4
+49,Dr. Mala Suryatmi,Emergency Department (IGD),Emergency Department (IGD),Active,6
+50,Dr. Najwa Mangunsong,Obstetrics & Gynecology,Obstetrics & Gynecology,On Leave,20
+51,Dr. Safina Suwarno,Pediatrics,Pediatrics,Active,8
+52,Dr. Ana Pratiwi,Surgery,Surgery,Active,22
+53,Dr. Salsabila Nasyiah,Surgery,Surgery,Active,10
+54,"Dr. Ida Siregar, S.I.Kom",Pediatrics,Pediatrics,Active,8
+55,Dr. Carla Habibi,Orthopedics,Orthopedics,Active,19
+56,Dr. Ina Samosir,Orthopedics,Orthopedics,Active,5
+57,"Dr. Prabowo Hasanah, M.Farm",Dermatology,Dermatology,Active,26
+58,Dr. Uchita Habibi,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,29
+59,"Dr. Dr. Ratna Susanti, S.Ked",Internal Medicine,Internal Medicine,Active,15
+60,"Dr. Vicky Tarihoran, S.E.",Surgery,Surgery,Active,19
+61,"Dr. Dinda Zulkarnain, M.M.","ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,27
+62,Dr. Dadi Lestari,Neurology,Neurology,Active,10
+63,Dr. Winda Latupono,Orthopedics,Orthopedics,Active,27
+64,Dr. Cici Nababan,Internal Medicine,Internal Medicine,On Leave,22
+65,"Dr. Lega Tamba, M.Ak",Cardiology,Cardiology,On Leave,3
+66,Dr. Waluyo Manullang,Pediatrics,Pediatrics,Active,21
+67,"Dr. Jaswadi Nasyiah, S.E.",Surgery,Surgery,Active,29
+68,Dr. Kamaria Marpaung,Cardiology,Cardiology,Active,16
+69,Dr. Prabawa Rahmawati,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,29
+70,"Dr. Akarsana Wahyuni, M.TI.",Pediatrics,Pediatrics,Active,8
+71,Dr. Balapati Widiastuti,Pediatrics,Pediatrics,Active,13
+72,"Dr. Dimaz Agustina, S.Gz","ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",On Leave,9
+73,Dr. Tami Wijaya,Emergency Department (IGD),Emergency Department (IGD),Active,16
+74,"Dr. Ir. Usman Utami, S.I.Kom",Internal Medicine,Internal Medicine,Active,4
+75,Dr. drg. Nrima Laksita,Neurology,Neurology,Active,15
+76,Dr. Pia Rahimah,Cardiology,Cardiology,Active,18
+77,Dr. Drs. Umar Yolanda,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,5
+78,Dr. Ciaobella Purwanti,Surgery,Surgery,Active,19
+79,"Dr. Gamblang Sihombing, S.Pt",Dermatology,Dermatology,Active,9
+80,Dr. Cinta Kuswoyo,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,5
+81,"Dr. Drs. Mulya Sinaga, M.M.",Pediatrics,Pediatrics,Active,3
+82,Dr. Hana Hasanah,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,7
+83,"Dr. Puti Tira Prabowo, M.Kom.","ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,23
+84,Dr. Kemba Suartini,Orthopedics,Orthopedics,On Leave,11
+85,Dr. Drs. Shania Melani,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,5
+86,"Dr. Hj. Zizi Usamah, S.E.",Obstetrics & Gynecology,Obstetrics & Gynecology,Active,23
+87,Dr. Jagapati Wijayanti,Orthopedics,Orthopedics,On Leave,19
+88,"Dr. T. Empluk Rajata, S.Sos",Neurology,Neurology,Active,27
+89,Dr. Cut Maya Simanjuntak,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,13
+90,Dr. Pia Wasita,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,3
+91,Dr. Darimin Haryanto,Neurology,Neurology,Active,11
+92,Dr. Muhammad Natsir,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,5
+93,Dr. Ir. Septi Handayani,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,15
+94,Dr. Ismail Halimah,Internal Medicine,Internal Medicine,Active,17
+95,Dr. T. Galang Hidayanto,Internal Medicine,Internal Medicine,Active,16
+96,Dr. Tantri Damanik,Surgery,Surgery,Active,9
+97,"Dr. Fathonah Wibisono, S.IP",Cardiology,Cardiology,Active,15
+98,"Dr. Sari Kurniawan, S.Farm",Obstetrics & Gynecology,Obstetrics & Gynecology,Active,24
+99,Dr. Tedi Lestari,Emergency Department (IGD),Emergency Department (IGD),Active,29
+100,Dr. Dadap Prastuti,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,26
+101,Dr. drg. Paiman Sirait,Orthopedics,Orthopedics,Active,9
+102,Dr. Xanana Nasyiah,Surgery,Surgery,Active,22
+103,Dr. Icha Widiastuti,Neurology,Neurology,Active,17
+104,Dr. Patricia Wasita,Dermatology,Dermatology,Active,14
+105,Dr. Dewi Laksmiwati,Internal Medicine,Internal Medicine,Active,19
+106,Dr. Lukman Siregar,Surgery,Surgery,Active,16
+107,Dr. Viman Farida,Neurology,Neurology,Active,22
+108,Dr. Dr. Nova Mayasari,Surgery,Surgery,Active,25
+109,"Dr. Wulan Lailasari, S.IP",Obstetrics & Gynecology,Obstetrics & Gynecology,Active,27
+110,Dr. Lembah Halimah,Pediatrics,Pediatrics,Active,26
+111,Dr. Radika Wibowo,Cardiology,Cardiology,Active,29
+112,Dr. Novi Maryadi,Surgery,Surgery,Active,29
+113,Dr. Balangga Utami,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,29
+114,"Dr. Unggul Halimah, S.Farm","ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,14
+115,Dr. Ismail Napitupulu,Surgery,Surgery,On Leave,10
+116,Dr. Keisha Nasyidah,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,16
+117,Dr. Drs. Dalima Nababan,Dermatology,Dermatology,Active,14
+118,Dr. Indah Siregar,Orthopedics,Orthopedics,On Leave,2
+119,"Dr. Rahmi Tampubolon, M.TI.",Pediatrics,Pediatrics,Active,26
+120,Dr. Ika Suartini,Orthopedics,Orthopedics,Active,8
+121,Dr. Tgk. Ajimin Wibisono,Dermatology,Dermatology,Active,10
+122,Dr. Dian Sinaga,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,25
+123,Dr. Anastasia Rahimah,Dermatology,Dermatology,Active,2
+124,Dr. Jais Salahudin,Cardiology,Cardiology,Active,13
+125,Dr. Putri Palastri,Internal Medicine,Internal Medicine,Active,9
+126,Dr. Devi Winarno,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,25
+127,Dr. Diana Gunarto,Neurology,Neurology,Active,12
+128,Dr. Edi Riyanti,Emergency Department (IGD),Emergency Department (IGD),Active,20
+129,"Dr. Olivia Hardiansyah, S.T.","ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,18
+130,Dr. Among Sudiati,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,9
+131,Dr. Azalea Yuliarti,Pediatrics,Pediatrics,Active,4
+132,Dr. Rini Irawan,Surgery,Surgery,Active,4
+133,Dr. Tgk. Saiful Purnawati,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,2
+134,"Dr. Yunita Waluyo, S.Psi",Emergency Department (IGD),Emergency Department (IGD),Active,28
+135,"Dr. Karen Mangunsong, S.Farm",Emergency Department (IGD),Emergency Department (IGD),Active,6
+136,"Dr. R. Heryanto Habibi, S.Gz",Surgery,Surgery,Active,11
+137,Dr. Cici Najmudin,Emergency Department (IGD),Emergency Department (IGD),Active,8
+138,"Dr. Genta Melani, S.Pt",Neurology,Neurology,On Leave,27
+139,Dr. Marwata Januar,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,10
+140,Dr. Hendra Astuti,Neurology,Neurology,Active,29
+141,Dr. KH. Danuja Novitasari,Orthopedics,Orthopedics,Active,8
+142,Dr. Adiarja Saefullah,Cardiology,Cardiology,Active,10
+143,Dr. Ophelia Sihombing,Surgery,Surgery,Active,9
+144,Dr. Ani Fujiati,Emergency Department (IGD),Emergency Department (IGD),On Leave,13
+145,"Dr. T. Paiman Lazuardi, S.Pt",Surgery,Surgery,Active,3
+146,Dr. Fitriani Widodo,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,2
+147,Dr. Cici Prabowo,Pediatrics,Pediatrics,On Leave,17
+148,Dr. Catur Saragih,Surgery,Surgery,Active,24
+149,Dr. Dr. Candra Dabukke,Neurology,Neurology,Active,24
+150,"Dr. Cahyadi Mangunsong, S.Pt",Dermatology,Dermatology,Active,25
+151,"Dr. R.A. Faizah Melani, M.Kom.",Cardiology,Cardiology,Active,6
+152,Dr. Wadi Siregar,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,4
+153,"Dr. Hj. Titi Oktaviani, S.Ked","ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,13
+154,Dr. Dina Wibisono,Surgery,Surgery,On Leave,9
+155,"Dr. Jail Dongoran, S.Psi",Pediatrics,Pediatrics,Active,23
+156,Dr. Farhunnisa Dongoran,Surgery,Surgery,Active,28
+157,Dr. Jane Prasetyo,Pediatrics,Pediatrics,Active,4
+158,Dr. Manah Sihombing,Emergency Department (IGD),Emergency Department (IGD),Active,2
+159,"Dr. Tgk. Bakiadi Dongoran, S.Pt",Neurology,Neurology,Active,4
+160,"Dr. Drs. Marsito Rahmawati, S.E.",Cardiology,Cardiology,Active,6
+161,Dr. Estiawan Padmasari,Cardiology,Cardiology,On Leave,16
+162,Dr. Lanang Nasyidah,Internal Medicine,Internal Medicine,Active,15
+163,"Dr. Puti Gilda Purwanti, M.Pd",Orthopedics,Orthopedics,Active,4
+164,Dr. Puti Diah Aryani,Internal Medicine,Internal Medicine,Active,2
+165,Dr. Amalia Novitasari,Pediatrics,Pediatrics,Active,6
+166,Dr. Ellis Pratiwi,Cardiology,Cardiology,Active,27
+167,Dr. Warsita Simbolon,Dermatology,Dermatology,Active,24
+168,"Dr. Keisha Iswahyudi, S.Pt",Orthopedics,Orthopedics,Active,15
+169,"Dr. Olivia Rahayu, M.Ak",Surgery,Surgery,Active,8
+170,Dr. Jayeng Prasasta,Pediatrics,Pediatrics,Active,28
+171,"Dr. Putu Padmasari, S.Pt",Neurology,Neurology,Active,10
+172,Dr. Silvia Mandasari,Pediatrics,Pediatrics,Active,16
+173,Dr. Mulya Laksmiwati,Internal Medicine,Internal Medicine,Active,16
+174,"Dr. Sutan Muhammad Puspita, S.I.Kom",Internal Medicine,Internal Medicine,Active,27
+175,Dr. Betania Yulianti,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,11
+176,Dr. Gandi Namaga,Surgery,Surgery,Active,29
+177,Dr. dr. Genta Safitri,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,14
+178,"Dr. Puti Jelita Maheswara, M.Kom.",Orthopedics,Orthopedics,On Leave,20
+179,Dr. Febi Narpati,Pediatrics,Pediatrics,On Leave,8
+180,Dr. Jelita Kuswandari,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,18
+181,Dr. Karsana Hidayat,Pediatrics,Pediatrics,Active,21
+182,Dr. dr. Galur Padmasari,Internal Medicine,Internal Medicine,Active,5
+183,"Dr. Ghani Nasyiah, M.M.",Neurology,Neurology,Active,6
+184,Dr. Jane Purnawati,Orthopedics,Orthopedics,Active,24
+185,"Dr. Drs. Lili Anggraini, S.Ked",Obstetrics & Gynecology,Obstetrics & Gynecology,Active,8
+186,Dr. Umaya Siregar,Surgery,Surgery,Active,14
+187,Dr. Tgk. Murti Hariyah,Internal Medicine,Internal Medicine,Active,16
+188,Dr. Silvia Agustina,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,12
+189,Dr. Nardi Hidayanto,Dermatology,Dermatology,Active,5
+190,Dr. Cut Hilda Uyainah,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,14
+191,Dr. Nadine Pratama,Obstetrics & Gynecology,Obstetrics & Gynecology,Active,8
+192,"Dr. dr. Icha Padmasari, S.Pt",Cardiology,Cardiology,Active,28
+193,"Dr. Kusuma Aryani, M.Ak",Cardiology,Cardiology,Active,20
+194,Dr. Anastasia Sitorus,"ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,23
+195,"Dr. Koko Prasasta, S.E.I","ENT (Ear, Nose, Throat)","ENT (Ear, Nose, Throat)",Active,29
+196,Dr. Nadine Wahyuni,Internal Medicine,Internal Medicine,Active,3
+197,Dr. Zulfa Hutagalung,Cardiology,Cardiology,Active,11
+198,Dr. Lala Pudjiastuti,Cardiology,Cardiology,Active,14
+199,"Dr. Titi Siregar, S.Ked",Emergency Department (IGD),Emergency Department (IGD),Active,26
+200,Dr. Cindy Wahyudin,Neurology,Neurology,Active,22

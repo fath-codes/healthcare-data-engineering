@@ -2,7 +2,7 @@
 # ETL Block 2 - Data Cleaning
 # Input : data/raw/*.csv
 # Output: data/clean/*_clean.csv
-# Log : docs/data_cleaning_log.txt (overwrite each run)
+# Log : logs/data_cleaning_log.txt (overwrite each run)
 
 import pandas as pd
 from pathlib import Path
