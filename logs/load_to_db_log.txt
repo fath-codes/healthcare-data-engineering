@@ -134,3 +134,17 @@ connection to server at "localhost" (127.0.0.1), port 5423 failed: Connection re
 2025-11-04 14:30:53 | 📊 Table dim_diagnoses has 15 rows
 2025-11-04 14:30:53 | 📊 Table dim_dates has 639 rows
 2025-11-04 14:30:53 | 📊 Table fact_visits has 150000 rows
+2025-11-10 16:29:57 | Connected to PostgreSQL database successfully.
+2025-11-10 16:29:57 | ✅ Succesfully loaded data into table dim_patients from data\processed\dim_patients.csv with 20000 rows.
+2025-11-10 16:29:58 | ✅ Succesfully loaded data into table dim_doctors from data\processed\dim_doctors.csv with 200 rows.
+2025-11-10 16:29:58 | ✅ Succesfully loaded data into table dim_departments from data\processed\dim_departments.csv with 10 rows.
+2025-11-10 16:29:58 | ✅ Succesfully loaded data into table dim_diagnoses from data\processed\dim_diagnoses.csv with 15 rows.
+2025-11-10 16:29:58 | ✅ Succesfully loaded data into table dim_dates from data\processed\dim_dates.csv with 639 rows.
+2025-11-10 16:30:05 | ✅ Succesfully loaded data into table fact_visits from data\processed\fact_visits.csv with 150000 rows.
+2025-11-10 16:30:05 | All tables processed.
+2025-11-10 16:30:05 | 📊 Table dim_patients has 20000 rows
+2025-11-10 16:30:05 | 📊 Table dim_doctors has 200 rows
+2025-11-10 16:30:05 | 📊 Table dim_departments has 10 rows
+2025-11-10 16:30:05 | 📊 Table dim_diagnoses has 15 rows
+2025-11-10 16:30:05 | 📊 Table dim_dates has 639 rows
+2025-11-10 16:30:05 | 📊 Table fact_visits has 150000 rows

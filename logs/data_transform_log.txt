@@ -1,13 +1,13 @@
-[Data Transform Log — 2025-11-04 12:33:17]
-2025-11-04 12:33:17.674392: 
-[Transform - Dimension] 2025-11-04 12:33:17 Starting dimension transformation
-2025-11-04 12:33:17.805813: ✅ [Transform - Dimension] Saved dim_patients to data\processed\dim_patients.csv with 20000 rows.
-2025-11-04 12:33:17.808238: ✅ [Transform - Dimension] Saved dim_doctors to data\processed\dim_doctors.csv with 200 rows.
-2025-11-04 12:33:17.809794: ✅ [Transform - Dimension] Saved dim_departments to data\processed\dim_departments.csv with 10 rows.
-2025-11-04 12:33:17.811362: ✅ [Transform - Dimension] Saved dim_diagnoses to data\processed\dim_diagnoses.csv with 15 rows.
-2025-11-04 12:33:17.813662: ✅ [Transform - Dimension] Saved dim_dates to data\processed\dim_dates.csv with 639 rows.
-2025-11-04 12:33:17.814709: 
-[Transform - Fact] 2025-11-04 12:33:17 Starting fact transformation
-2025-11-04 12:33:19.551378: ✅ Saved fact_visits.csv (150000 rows)
-2025-11-04 12:33:19.557642: 
+[Data Transform Log — 2025-11-10 16:25:51]
+2025-11-10 16:25:51.056701: 
+[Transform - Dimension] 2025-11-10 16:25:51 Starting dimension transformation
+2025-11-10 16:25:51.219175: ✅ [Transform - Dimension] Saved dim_patients to data\processed\dim_patients.csv with 20000 rows.
+2025-11-10 16:25:51.222208: ✅ [Transform - Dimension] Saved dim_doctors to data\processed\dim_doctors.csv with 200 rows.
+2025-11-10 16:25:51.224142: ✅ [Transform - Dimension] Saved dim_departments to data\processed\dim_departments.csv with 10 rows.
+2025-11-10 16:25:51.225915: ✅ [Transform - Dimension] Saved dim_diagnoses to data\processed\dim_diagnoses.csv with 15 rows.
+2025-11-10 16:25:51.229040: ✅ [Transform - Dimension] Saved dim_dates to data\processed\dim_dates.csv with 639 rows.
+2025-11-10 16:25:51.230162: 
+[Transform - Fact] 2025-11-10 16:25:51 Starting fact transformation
+2025-11-10 16:25:52.293379: ✅ Saved fact_visits.csv (150000 rows)
+2025-11-10 16:25:52.299900: 
 ✅ Transform process completed successfully.

@@ -115,8 +115,14 @@ def transform_fact(dims):
 
     df_vis = pd.read_csv(CLEAN_DIR / "visits_clean.csv")
 
-    # Generate date_id from visit_date for joining to dim_dates
-    df_vis["date_id"] = make_date_id(df_vis["visit_date"])
+    # Join dim_dates to get date_id from visit_date
+    df_dates = dims["dim_dates"]
+    df_vis = df_vis.merge(
+        df_dates[["date", "date_id"]],
+        left_on="visit_date",
+        right_on="date",
+        how="left"
+    )
 
     # Join dim lookups (example: diagnosis_code → diagnosis_id)
     df_diag = dims["dim_diagnoses"]
